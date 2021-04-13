@@ -1,0 +1,454 @@
+{
+  "usableSessionsCount": 7,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_5031tZvRoG",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": [
+          {
+            "key": "ak_bmsc",
+            "value": "342AE322A34864E5E64DE413FD52803D68754C073F2300002CD7756090F73140~pltn5amSTTEwgt2feJizR7bgFgM5xzvgEwlLfkSkaU2STd75ki86AT+mhvOnTh7Jt+SzRwlNYbkwqVgEztX0O2BYCiUIWqXvwIyMTA9djqQ68wluA0FIDobRRFgYHyyCgAwjA8jR/7+I1Wtvk9eYyWKKaN08LGvUiGLGCumxS4U7lcQnZOucDcd0eNyzPV+dvAdKWEfyCu1IwArPUqD18Ul9jP+RY6mB1Z1LIDvsLxhVo=",
+            "expires": "2021-04-13T19:38:52.000Z",
+            "maxAge": 7200,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:53.710Z",
+            "lastAccessed": "2021-04-13T17:38:53.710Z"
+          },
+          {
+            "key": "bm_mi",
+            "value": "FC88D2124A4A5DC9756070BDD09E1D1E~9JxuGIX8xp7OoQdM0tmncHRE1PkeQZCU9LE7Mhfus/9vdiV9rzrqaPs4c+jziN0yl0G4ASH0l+AS+2qLp8YkICxgrA+SotqptiOZoXf/DjDXajSYuxEb1ztCgVvAQGMAuLt10PeLoHqv0wlT7IX68+K6ah/p4BdZ94F6hX8U9Wvg5grBtbXWr6Oq1EcihFZg9IglK23gyb9r1Cu2I8N+pBP9depNusXRunwqViHhTe8oL1/ukCkKE4tf05MZNz8J9++OpGC1Sc+fTPGaX9v05VIiNIy0VROaJpH7ETyv5+s=",
+            "maxAge": 0,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:53.711Z",
+            "lastAccessed": "2021-04-13T17:38:53.711Z"
+          },
+          {
+            "key": "bm_sz",
+            "value": "9837FFAEEB8D23B7933A20A39566D8B5~YAAQB0x1aEYKQql4AQAAeYRQzAvVEKHoaNJ1+B1ewDTVhvGGOrXTG/SxfQLJrX2debwY8f7ugxi610KuN+cx1ZzkJL3OAxQbTFDvzogcxqI/S+SmWS+unaYfe2+TwiDZwxk1G+N0Pb6Z7cc3hiL7jME2yMiAbzZdJ82EYFcj4nNcloJV94UC5W2GpL4PYQ==",
+            "expires": "2021-04-13T21:38:52.000Z",
+            "maxAge": 14400,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:53.712Z",
+            "lastAccessed": "2021-04-13T17:38:53.712Z"
+          },
+          {
+            "key": "_abck",
+            "value": "4E72D5B8E34C1CED5BEBE3162C1CB429~-1~YAAQB0x1aEcKQql4AQAAeYRQzAUYrAivXxr1mElU7aqZ/1i4oYt8zTB8+M4hsAXxmlRdFApmn3Ovt5FrUQwwQSrGHX6YoRf3oISpTCgG3BOw7HAexluu491r/X99wdjyVeRnPbak5J3f1uxigzC9ScaNlD5a75gcpLDm5Qs5Dq2hedj6E0Ded3WZJK9P5KRWNVEUGzlxsomg3nNFXKdXf+U8ybWO8l1jw8uYnjZvfkEK5NM1ID8AYUTDO/zQzuOMRLb5SyyFngnWr4tONyuLF+kj9IQ+O6vOc71bIhbMG8cbK7aWvcyPJrpfKKQK0DpAzgkaoCdhAodfGdSJLGD/cBlDr4Hg1ItyunrzpY490cQZUPSp1boNPhrhFw==~-1~-1~-1",
+            "expires": "2022-04-13T17:38:52.000Z",
+            "maxAge": 31536000,
+            "domain": "altex.ro",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:53.712Z",
+            "lastAccessed": "2021-04-13T17:38:53.712Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2021-04-13T18:28:53.391Z",
+      "createdAt": "2021-04-13T17:38:53.391Z",
+      "usageCount": 1,
+      "errorScore": 0
+    },
+    {
+      "id": "session_VnjEB7uL3d",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": [
+          {
+            "key": "ak_bmsc",
+            "value": "07D0886B0A16FA19700338A8F77C818668754C073F2300002CD77560A8AAF97B~ploGfjx3r0i5L1k7mZHbC9K/sfP0/mGqEWXLOM6DZTTE27A6Pr1bQKlEOBS9ZpEm3ktWM+ibhOa4Fof2eSebeCJ/5CjrveZASu0F9PBNiFxQfFjCiI3dFGcuDT/JyswPLT3hSatA64xYYQoamC18joIg3hJqAa0UecoK2jQzLiDx/8gn5sM0fOizLtDAiYlLErd6VSeumKUly8dZUfwJIexkW4inQwZFBsModp4qERaUY=",
+            "expires": "2021-04-13T19:38:52.000Z",
+            "maxAge": 7200,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:53.733Z",
+            "lastAccessed": "2021-04-13T17:38:53.733Z"
+          },
+          {
+            "key": "bm_mi",
+            "value": "087965FF6CC92EEA28B48C612E52C41F~9JxuGIX8xp7OoQdM0tmncOpzvq+3prTblmUVVqEOS/QeOogkWsjuRkK065q9z7IGWWsVTgNjrl7RSrtC2NwBDnm52hfmgX6FWOvY3KtODuJ9nrdZ+zUlHHYANkyVXcElZHYcL6EWkSyZtU58qUZMr0g2/bNcNIgDO2iOYzf/v/5Vz7p4uGcx5FNJzp8WXooHOZgn0A4GgaZX1vhmFK1wuWNr2bloeA3b6feuF3HYx5mXiwk694PZ+Oeb9dyGQuesagKwJdXyoh20Bu2LpwENizvTrCUVy1DvFwdxveFV8HInrmtFCpRBtVbbvfIgtBdW",
+            "maxAge": 0,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:53.733Z",
+            "lastAccessed": "2021-04-13T17:38:53.733Z"
+          },
+          {
+            "key": "bm_sz",
+            "value": "FCCFFE6365D7E09D7BFA71C2F7D87142~YAAQB0x1aEgKQql4AQAAgoRQzAtPiqd/6K+Z4LR+342cEqGR5RRJc2T2QExnUYH/sq7N8BKYwQYTeJYgwUWRek2h8vwRzQ13Du5nyr5fs0lplgk0VDJj8x8lZAjXRe99nFNSJ5rcnMTOug/puzQ6DHZuXGVEVp36toweU0SWzV8vJNJsquAbtie9zwHAog==",
+            "expires": "2021-04-13T21:38:52.000Z",
+            "maxAge": 14400,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:53.734Z",
+            "lastAccessed": "2021-04-13T17:38:53.734Z"
+          },
+          {
+            "key": "_abck",
+            "value": "787EC9233F4D77F3D15EA7140C3B1DC8~-1~YAAQB0x1aEkKQql4AQAAgoRQzAXKuwp4aw/TLOc3D9it8j/Bni+cUzPjdH5CBJEuHs0P+eRSjDZf1WTwj7gyxJeXT+eSj1zpbi4s7qs86LjhQJnR7ITXXpoog/uXYU6Lf7VQqX6f/AZJa54hQNh9UpN/w5IKZxcvRMc8j1c1+ctWoiqhlzbEj/LLEUX2giv8EnNzweoU/hUH+gggyJX4euI6uUtFcGwdh7ejKQo3UnMIkZn/y6jRieOcvutPl/t/nsELoMUYv9v7fQ0Y6OPI/Y5Yh0+kNDYhi2ty1uVAPRJv/l1dNnJhFKoogkvKKntztqa2AV0xmhtwhDsMLyFMw3mOon3VO4H3cFTwMTD1fDbxoWgKpKx5ypmSlw==~-1~-1~-1",
+            "expires": "2022-04-13T17:38:52.000Z",
+            "maxAge": 31536000,
+            "domain": "altex.ro",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:53.734Z",
+            "lastAccessed": "2021-04-13T17:38:53.734Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2021-04-13T18:28:53.482Z",
+      "createdAt": "2021-04-13T17:38:53.482Z",
+      "usageCount": 1,
+      "errorScore": 0
+    },
+    {
+      "id": "session_txCHXV9BAJ",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": [
+          {
+            "key": "ak_bmsc",
+            "value": "966BC185C22FBA7DE4A059593F9EFCFB68754C073F2300002CD7756033C8C33F~plZdPQymIz8ofLdv18tPJK8HmVymAp0nJgVH5bZhnGNSBOEZGmHBtPwTZsbVYHKzesTDvRuEs9ybSLQ+tyb4yLZkhhCainF+cXpOygWvaLVlvwI5xoi0h+yuO5Nw/ztwPH5paNnc1N3K8M4Itm3VD7ShNTosf4xrKclLIponkN90DuOxFnBxA7Yh+BgfB9IlUdNQTzePo27WXmK/EKIoRl04hd+rAX133ceq2R4X60g6c=",
+            "expires": "2021-04-13T19:38:52.000Z",
+            "maxAge": 7200,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:53.885Z",
+            "lastAccessed": "2021-04-13T17:38:53.885Z"
+          },
+          {
+            "key": "bm_mi",
+            "value": "03A7602AA2F871691FC2F27062164CEC~9JxuGIX8xp7OoQdM0tmncM4LOTnjVuKdJ3deLl/oWx1LiSQioAGprQNBmyge+ARj2hn64Nz2QNbHRyW2rrkLBEg7UMcNrxJPvZfgcbcBWZz4hSyW/pxeT+Q6ZkTHV1CAQfArt31BXyopdxNngMeppboTATcAK26JAfcETgAujWmJmDFk+XdfpOO9/9cE8Ddn4GUfh9kjgdCxja/GesitASZNpmKSY2W58FHqSI4hgApMwfVg2pe+QggmmptBiymgOY4q/OREW6O7psnuktm5xly4b8TTeF0byOFh/wBvMvJ/gRVzHQynILcgzs3ERc6z2tZ8sOI/f2lZIARfaQJRHA==",
+            "maxAge": 0,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:53.886Z",
+            "lastAccessed": "2021-04-13T17:38:53.886Z"
+          },
+          {
+            "key": "bm_sz",
+            "value": "AED5B59DDE0A9E623E57FBBA7F519FAE~YAAQB0x1aEwKQql4AQAAYIVQzAs+1eVTd7Tc2/jDuyJlqhXYSYsoOIDl58UI4Oiy4vdQ58oWLOSK5A03zW1SWvaURe3CPjCAgBu/ItnbVssdIlaamJIU33tOwD5Js5cDI6eRC02zMhkcaZs1QhCQnQhzN88vvluzHuooF7AzAosVxAR+Mag/PZatoK41Pg==",
+            "expires": "2021-04-13T21:38:52.000Z",
+            "maxAge": 14400,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:53.887Z",
+            "lastAccessed": "2021-04-13T17:38:53.887Z"
+          },
+          {
+            "key": "_abck",
+            "value": "0948B565C23B7527C36D7A4EFB6DF60D~-1~YAAQB0x1aE0KQql4AQAAYIVQzAViOV4K5BKW7tI4pD2JyoB+ciKDu8RQcDZKq6eS+ikz/C+IQHstvZZn3NVEatrbhRH6rs+wFqrRtcbpICmFuFmJA6tp77AJuf06yLipnKRuS9u139Ose4dtkdWXBAtmaNAj7EkRyNNiK279jxsyaaZq6mw1MkfECTw9MkXhsZ2WrAMoinROdYWOh9xzKERO6QtnMCveXHzzcwcq9ryGd6OS7wHJp3fh2yTSFhqOOGcWgnoGtQVCX8nZH1dqRYPb6Lgy5Mzw3APAT40GJlmSHinUi1DbuLxyGOmNuMP+0ruZkfHWPEHV9HqTrxWIQkRylvK94lbbLg6T9hKk+ffAUPCGSkZWQQt2yA==~-1~-1~-1",
+            "expires": "2022-04-13T17:38:52.000Z",
+            "maxAge": 31536000,
+            "domain": "altex.ro",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:53.888Z",
+            "lastAccessed": "2021-04-13T17:38:53.888Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2021-04-13T18:28:53.746Z",
+      "createdAt": "2021-04-13T17:38:53.746Z",
+      "usageCount": 1,
+      "errorScore": 0
+    },
+    {
+      "id": "session_DDydkDUtRz",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": [
+          {
+            "key": "ak_bmsc",
+            "value": "9071E56FABBFCFD954DD9D4BE2562BDB68754C073F2300002CD77560BF163D2D~plPlfj5Y2unZrgVu1dDHp0COCdJQRIMxV5DStKl7TvIGl2tWVACOZ7c0n8hfNqWqZuJ8e/d8sB89DAHQSKnj6NkSdNI9zydODFY+xZRsPLagcVSwZU8eWIjkWcruMtbTxeNtrGSImiOuxSkBrp6sGH4mn4Hp9V+mNbJGUINRmzdvJXp30ZvsOcnkOrnF2TeTBs1HvagAqIaGnuCsIdl/XKs2xxdulvwpv0wa1h+9MHT94=",
+            "expires": "2021-04-13T19:38:52.000Z",
+            "maxAge": 7200,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:53.893Z",
+            "lastAccessed": "2021-04-13T17:38:53.893Z"
+          },
+          {
+            "key": "bm_mi",
+            "value": "7B307B3D351CDE837B9503A27A0DB5DB~9JxuGIX8xp7OoQdM0tmncKUwn1lFynOCbcCC61gjoGYc20tN1pK+nVr3eybqwQr5cHUpDLhReSObDFPzbtRQNc8lx3NslARrBBUg+kmtrm3jysn2XI+vxHXMjtH3PG7JTh1vPPtVcaaknSUFQ/Rt2WFUFtbAUBZ4OIWgQua7KnU53TNloS+8VVoxb9wvV/hpBbQIAYi9Qqf+5/cYVb0Q50yVk2Nmp1oVqGdNS6ZriXZpYjzgF3H5mkfYTB9QrFTb9vVPiVQyBQhXt3R12JeNNGPFG3r5R/UzNVuFOXXqPgGh2trTdO1sdgMgqX4EOOdvwzVgCVpx3/b4Elecx0laEA==",
+            "maxAge": 0,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:53.893Z",
+            "lastAccessed": "2021-04-13T17:38:53.893Z"
+          },
+          {
+            "key": "bm_sz",
+            "value": "89E2B8BFA7B6E1F1CE5D6BBCF3BD59EE~YAAQB0x1aEoKQql4AQAAV4VQzAtGZSE4zCx5XLW6U+5gfMnNAbPBIkFjufAUFs9f77hLPcBaypqqeroD1LZKcw2P1xgJDyWa1sxpgXFkss7R7UsdUgHT9YhvzRNrWkL78kh40oIwKliwpViBpKTcP4zWrid4gEJtoCLoL2ou/5wetNeiaQvVyqSlfR04vQ==",
+            "expires": "2021-04-13T21:38:52.000Z",
+            "maxAge": 14400,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:53.894Z",
+            "lastAccessed": "2021-04-13T17:38:53.894Z"
+          },
+          {
+            "key": "_abck",
+            "value": "6F0543A630BD610C234B06A9B676FAE4~-1~YAAQB0x1aEsKQql4AQAAV4VQzAVMV4c6IvRVLRHo2wC2gKhsSXXMfDH7zrNqToF6dvP/UiVuaHpiIsHx2H224SS/ESrhMjiseNRpX5eMtV0fOsRYXXkildPqzx2K0cZ9rZn5DnWuETNnkcv8jQ3CXBXP9m4aGCSTtlRiN8eB4P7ytFhvDVJpNaB/rm3zzjbLvo2TWFhH0ocI3y5i8uQCPbrHyX8D+Z1w27wai0rlZonT7G8d4PfdKif86aTG5d20EOPxYVl3nPTXUh6zNyNDX9AwWm/nnjeztDqEZImwxSbKiGBTTUBmmi7MKAG6gx7rAdKE74LAE382iyJsDAmkJjoLMar7CCjHAj1tUrI2snbKNHFPyI2eivcXLA==~-1~-1~-1",
+            "expires": "2022-04-13T17:38:52.000Z",
+            "maxAge": 31536000,
+            "domain": "altex.ro",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:53.895Z",
+            "lastAccessed": "2021-04-13T17:38:53.895Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2021-04-13T18:28:53.751Z",
+      "createdAt": "2021-04-13T17:38:53.751Z",
+      "usageCount": 1,
+      "errorScore": 0
+    },
+    {
+      "id": "session_2Bvn6pfCgc",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": [
+          {
+            "key": "ak_bmsc",
+            "value": "3840092B9C05C27A3F1795C57230183468754C073F2300002CD775602977716B~pl7Uhl4Tkvp2emyD9bNQMFRvue6kDxGw4BJoKeriK+BxKfAclEoXDL9mwrmmsuwxLnesSHdmnP/jZqHtZVgVA9xRu2vjjJHfUMUofai+AIbR4vQN8sfK0VB6HrE/BiFFV42o7oi8yAnoND7rJaytDWgf1SypSscHRNboWrbJVwg2iCebiNLQz4GCbf/mXJbY+UTui054oBJljUxaq/FWknXlTDfiYfBWA3IcnEpbjzGck=",
+            "expires": "2021-04-13T19:38:52.000Z",
+            "maxAge": 7200,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:54.032Z",
+            "lastAccessed": "2021-04-13T17:38:54.032Z"
+          },
+          {
+            "key": "bm_mi",
+            "value": "B502B1A5F2A3BE1CA3EE38DDCF292D14~9JxuGIX8xp7OoQdM0tmncIlHJZGbKqamAsUt5SogtbEIxjnrglUX1heF2LA0vFVu04orSfgbOytQQIwT7VUB6fwfrDheh3QYU9Bpb0Tc/tFiHIjvn4LTUc5MoKecUkK5AUKelsWbS2HS1AnTS64GFL2q9Axc6ip2WbhwpYrlQVgiMrJcvq0wDM/e3zetK0iz36g4M3gxowYuQvXN/Pyk2ZOHftN6sRtpEKCS3D1n1688GUsEbFUH/18QA2Tm17/HxtV6Y6P5G6B2IE5b1lu9lmSH1hRGwD+GTUl49Qtg1zw=",
+            "maxAge": 0,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:54.032Z",
+            "lastAccessed": "2021-04-13T17:38:54.032Z"
+          },
+          {
+            "key": "bm_sz",
+            "value": "160046584800AA1A30D7B9F86BCBDA98~YAAQB0x1aE4KQql4AQAA+IVQzAsFXJ0VaOJoAcXoIx2vak7jgoBug3daOCm1ea1JV5zK1k0icnU2hRw8//Z3nXeuV59edvSExkm4DXSYNRr8+zYsdiRlnAO5NPXeRRjeK69mVlN0Fx1spV2gEbkM85436TARIi/FUvYYieF9xJ6WTG8wPePeV1YZpre6ug==",
+            "expires": "2021-04-13T21:38:52.000Z",
+            "maxAge": 14400,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:54.033Z",
+            "lastAccessed": "2021-04-13T17:38:54.033Z"
+          },
+          {
+            "key": "_abck",
+            "value": "656E12AFC5446FEA153CD7329515912B~-1~YAAQB0x1aE8KQql4AQAA+IVQzAVZ3RoGbO9uFbip38IuX/mMEnsi155hHa5oWgw5TEBxKEvLfF6Kq65XYGRMYJT28L9m8JMUguLFdrtOKI+WqFQTZEs2PxOYSQLbAIanxUass6hbpiUx1LaH5o3G7to8BR/W/Mm4vEdiCzkAc0/kTzxCApbYi15fqXHUvMkYJn1dVAIJThFXoxTp5grfOVCIlUMXEe6xefWTHePsWoIZsEP5rDFIHvfb+WOeYU/dVZC11C1UwV8PKh6i3/+nVWgmoYX38nN65cd67KuefD720+ltAnAHLTtbfOBiAYjjwu8+xIT5iHujQyC9BmeiJci8s4hBbo0++aSAkEqPyrM24kuzelLSdYZ8Nw==~-1~-1~-1",
+            "expires": "2022-04-13T17:38:52.000Z",
+            "maxAge": 31536000,
+            "domain": "altex.ro",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:54.037Z",
+            "lastAccessed": "2021-04-13T17:38:54.037Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2021-04-13T18:28:53.904Z",
+      "createdAt": "2021-04-13T17:38:53.904Z",
+      "usageCount": 1,
+      "errorScore": 0
+    },
+    {
+      "id": "session_PgMJqfTQEz",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": [
+          {
+            "key": "ak_bmsc",
+            "value": "6C15928675827691253130F7172F1F0E68754C073F2300002CD775605AEA5329~plwsKaa85P++N76adEV1CQADL5ycyVK30WSlzbXnqwoNysRkbaUDv/JGky4BZ5cXjTzCPvrr6dUQjoXy7PIE71EA4h5yDwepxOQ8VOcMquZOiY671sDu8IuxjC/wv+csi52Xsl8XMCmxQZUYtp8LR2K1itOApBJponCMcGPSSIDrvKfCzzL9Bg5dSubb6US01HGDS7E3OHzpF005ot3diUU6+V2jicIxdfLERZ7kOFJJs=",
+            "expires": "2021-04-13T19:38:52.000Z",
+            "maxAge": 7200,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:54.020Z",
+            "lastAccessed": "2021-04-13T17:38:54.020Z"
+          },
+          {
+            "key": "bm_mi",
+            "value": "E4622700CC98D40A2FCFE9E3CEEE4FBF~9JxuGIX8xp7OoQdM0tmncDHgD+bQ5ve0N0XKSyodZFjambGhnE4nSCmjuZ6JdTmwPMxsvZVdOEBDj6pot3c73GzD9JXCE27UGY1x/8evei1458AqqB9CkMc/Tm9qC4YzJX3eu7ZwYeYyqiITbmsHNU/sJ6LreExuiRntqxmE6SDQf3YS/xiHrf+SgeWNC1po3B6zrqxvFSV0oAI+bx1IbsphbdxGyHzPRosNAghGD268vPg15m+tcq072WMnrkp52Ng/MkZsywPRFNpfai1TJQH13bnMR8XcYLt4uh9sXYLZ+rsTe5ysItxxogi4mtPn",
+            "maxAge": 0,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:54.020Z",
+            "lastAccessed": "2021-04-13T17:38:54.020Z"
+          },
+          {
+            "key": "bm_sz",
+            "value": "3185ED5132480E4489A2238D81080DA3~YAAQB0x1aFAKQql4AQAA/oVQzAtabJjcD5hNmuotHjBHP2SHot8HaDGm37LVdctjOQKzCQjUJZegr11y3iNqWmGL51YLRpMlBpjEtK/rlQH9qOIqp/BXbdMttKlNygyyoGJbU2JMEi2XSqFF8YndzwTFDq4jJsqdjBGbmG+TygCPkz9qv3dKUHaBFD651w==",
+            "expires": "2021-04-13T21:38:52.000Z",
+            "maxAge": 14400,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:54.021Z",
+            "lastAccessed": "2021-04-13T17:38:54.021Z"
+          },
+          {
+            "key": "_abck",
+            "value": "82B7BE44B5E6EEFE8F65B65DDF15D510~-1~YAAQB0x1aFEKQql4AQAA/oVQzAUzFAcX8Xt+6TGVhL4Hib1GfCFfscvCc3YQAoM+jYrmCvLuccPygNIiJN/KiesqgCctN9gRnkXkDc7z/7ILtNZO/+YK3ksUFIqW6j4LLne/rxa0HoYCD0AjZGMJwoNvMdFfWZp8n9Na/PiXrS4TBJY9rttMEO0hQdHQyeHIAbvDc0M5MgjmG/R5VSA5lt2ZbVFMm6P6ZbjyIDpc0sE4Hy7xadYT96BncLe24i3KbSrOOpWF6ZvcS0TUnqLTWzHtSlWQRmU4skm3errJbnBya0DcRHQoc+zH99ZdM4VVwfaKQDuGIlDe8c3scNYYHpXvGSj98/l8/hrNo+i6Qqq/YHfN4WV57bSWvQ==~-1~-1~-1",
+            "expires": "2022-04-13T17:38:52.000Z",
+            "maxAge": 31536000,
+            "domain": "altex.ro",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:54.022Z",
+            "lastAccessed": "2021-04-13T17:38:54.022Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2021-04-13T18:28:53.909Z",
+      "createdAt": "2021-04-13T17:38:53.909Z",
+      "usageCount": 1,
+      "errorScore": 0
+    },
+    {
+      "id": "session_clvGEl1TUp",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": [
+          {
+            "key": "ak_bmsc",
+            "value": "B9BC811CDE6386028EB5B45F76B70C0D68754C073F2300002CD77560B585A154~pl5gk26O9XA03wrnuraGGE5sB68j4lh3sBlakbara6puLxofEY99PuQhWUFNQXXk49F3KnmmP0cwxiAiVXkciVhuZqvT5uUzVtsMYYUTqoQw6WairSyzXplPGmhlFf6Hhm35wYy+ESkiuDuYcTGyXubxoKUmnggkwPrCuH7FXa/TDmGWg3QQr/ocFtl+yD76+bFDmFSLB35+gsx7gw8ePFoDHxZ3PVheTT1c/056MdtrA=",
+            "expires": "2021-04-13T19:38:52.000Z",
+            "maxAge": 7200,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:54.136Z",
+            "lastAccessed": "2021-04-13T17:38:54.136Z"
+          },
+          {
+            "key": "bm_mi",
+            "value": "D9E1E539E3D6BCDBA554B241F888E080~9JxuGIX8xp7OoQdM0tmncAjf1U33qdDUh4PQ4JtJGd6SqGAwcCFvIO0VdtYc+HIdpjcq9MUqxMuWedxPx9ESyIfKaQEvImeJEtrlReAw3Tb7xcL62LsJ23Dabx/ElyTgIlDfVFUyNKt20dl42scn7RkeNfW5vvDtL7bV7phwsIsgx9shT7KjqtY/qCHDJWMve+LQAgXuOlV/EdtzGZhtxEhd2Fzs2z9r/EmLjohQebBDK9IN28oOp5X1eVBRinXRIG/Dw3SliiCa1LSDpCLzEE9/R7oAG9dI3gCQv+dPqe61UXPyuykIm6PxUltj2LzAYq5vHLE6aMpDUhXUMFDyvRQM29fw7D5cng3Jlx1lbA4=",
+            "maxAge": 0,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:54.137Z",
+            "lastAccessed": "2021-04-13T17:38:54.137Z"
+          },
+          {
+            "key": "bm_sz",
+            "value": "05D74F031AD39B162FFB9470C7218C89~YAAQB0x1aFYKQql4AQAAboZQzAuiDfR0pbMtvCBoLs1wpbuihfNK417LKB5xn7oxh2ohWjDS73kT8tDHYNY9VUUasO45mrSiwg1Wqqx1rs/qjX/IyYCyOf7TxEbsrLoZdGYsJFNjmQhK98DRpoyJmAeUeI11hvYPJD3Uu7MIreafPvt136iWLWGelnq00w==",
+            "expires": "2021-04-13T21:38:52.000Z",
+            "maxAge": 14400,
+            "domain": "altex.ro",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:54.139Z",
+            "lastAccessed": "2021-04-13T17:38:54.139Z"
+          },
+          {
+            "key": "_abck",
+            "value": "CF66FA591637D32B5C627F0BB963BC90~-1~YAAQB0x1aFcKQql4AQAAboZQzAWOUnx0VX79CurR17nAwngdqIduTrsUJGtIwwsVc4s/Q0MaG8+1njNpswunku5Qy5/jfuqKrjl/i170ZXemQ5rizGEmkTtT3IQW6SGQkg+TMIpQfNuq4jAlA2V1v4EQ7AX/vU0nP7aW83aRFEb/qqXxzTqwwepMZIKC0TPz7lj1AiiYT8YOZVyUpxT4H9iR2QGSrPStqkcp8KJRO2PzVj/ozqpm7+jTuIwm2F2XTI3Bbdjr3r2jMdiH0qfY0C6/Wz7HLbLhciz5KxyNp/Fi7AGvjbpenEG0DUDmZd8O9TbQhz4vu4pBg2hsGdq5vw/WrcAP2tDx0WuZNQv84z7R3OnStRTRc7Co+g==~-1~-1~-1",
+            "expires": "2022-04-13T17:38:52.000Z",
+            "maxAge": 31536000,
+            "domain": "altex.ro",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2021-04-13T17:38:54.141Z",
+            "lastAccessed": "2021-04-13T17:38:54.141Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2021-04-13T18:28:54.027Z",
+      "createdAt": "2021-04-13T17:38:54.027Z",
+      "usageCount": 1,
+      "errorScore": 0
+    }
+  ]
+}
