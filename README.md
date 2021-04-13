@@ -7,7 +7,7 @@ It was created using the Apify CLI
 
 ## Details
 
-The input is located in the apify_storage/key_value_stores/INPUT.JSON
+The input is located in the apify_storage/key_value_stores/INPUT.json
 
 It contains the URLs that the scrapper will collect data from
 
